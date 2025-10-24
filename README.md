@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_pvsch_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_pvsch_" height="30" width="40" /></a>
+<a href="https://twitter.com/_pvsch_" target="blank"><img align="center" src="https://img.freepik.com/free-vector/twitter-app-new-logo-x-black-background_1017-45425.jpg?semt=ais_hybrid&w=740&q=80" alt="_pvsch_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/p-v-s-chaitanya-a53929220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/p-v-s-chaitanya-a53929220/" height="30" width="40" /></a>
 <a href="https://instagram.com/p.v.sri chaitanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p.v.sri chaitanya" height="30" width="40" /></a>
 <a href="https://discord.gg/pvs_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pvs_2004" height="30" width="40" /></a>
